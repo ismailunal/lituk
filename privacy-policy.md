@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy Policy for Life in the UK Test 2025
 permalink: /privacy-policy/
 ---
 
-# Privacy Policy for Life in the UK Test 2025
-
-**Effective Date:** March 27, 2025
+**Last Update:** March 27, 2025
 
 Your privacy is important to us. This Privacy Policy explains how the **Life in the UK Test 2025** app collects and uses your data. By using the app, you agree to the collection and use of information in accordance with this policy.
 
